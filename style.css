@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: orangered;
+}
+
+header, footer {
+    background-color: yellow;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+
+nav {
+    background-color: orange;
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    padding: 0 10px;
+}
+
+main {
+    padding: 79px;
+    height: 100px;
+ 
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+footer{
+    color: black;
+    text-align: center;
+    padding: 5%;
+    font-size: large;
+    padding: 10px;
+}
+
